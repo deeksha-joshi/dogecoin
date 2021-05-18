@@ -1,0 +1,69 @@
+ 
+.head{
+    font-weight: bold;
+    font-size: 35px;
+    color: rgb(41, 70, 92);
+    letter-spacing: 1px;
+    font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; 
+
+}
+.divider{
+    justify-content: center;
+    margin-top: 20px;
+  
+}
+
+.divider-line{
+    width: 110px;
+    height: 4px;
+    background: rgb(29, 66, 94);
+    border-radius: 5px;  
+    margin: 10px 18px 0px 18px;  
+}
+.divider-icon{
+     color: rgb(29, 66, 94);
+    font-size: 30px;
+    padding: 0px;
+    margin-top: -10px;
+}
+.para{
+    margin-top: 20px;
+}
+.image{
+    text-align: center;
+}
+.img{
+    width: 150px;
+
+}
+.window{
+    background-color: rgb(45, 117, 133);
+    color: white;
+}
+.windows{
+    text-align: center;
+}
+.linux{
+    background-color: rgb(13, 90, 13);
+    color: white;
+}
+.linuxs{
+    text-align: center;
+    margin-top: -20px;
+}
+.apple{
+    background-color: rgb(40, 58, 77);
+    color: white;
+}
+.apples{
+    text-align: center;
+    margin-top: -20px;
+}
+/* .btn{
+    display: inline-block;
+    align-content: center;
+    /* justify-content: center; */
+/* } */ 
+.google{
+    width: 150px;
+}
